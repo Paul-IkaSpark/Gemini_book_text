@@ -15,7 +15,8 @@ And write your API into
 Need to install:
 pip install google-generativeai pydub
 
-The script working as a part
+The script working as a part:
+
 Processing dialogue between Mikhail and Evgeniy
 
 Generating part 1...
