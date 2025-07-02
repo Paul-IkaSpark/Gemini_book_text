@@ -5,7 +5,7 @@ https://github.com/btbn/ffmpeg-builds/releases
 
 ffmpeg-master-latest-win64-gpl-shared.zip
 
-Unpack all files from bin folder, into profect folder
+Unpack all files from bin folder, into project folder
 
 Get "Api generative language" api ENABLED at console.cloud.google.com
 
