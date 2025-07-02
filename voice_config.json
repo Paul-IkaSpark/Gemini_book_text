@@ -1,0 +1,62 @@
+{
+    "characters": {
+        "Mikhail": {
+            "voice": "Fenrir",
+            "description": "Main host"
+        },
+        "Evgeniy": {
+            "voice": "Charon",
+            "description": "Co-host"
+        },
+        "Yuriy": {
+            "voice": "Orus",
+            "description": "Co-host"
+        }
+    },
+    "available_voices": {
+        "bright": {
+            "male": ["Zephyr"],
+            "female": ["Autonoe"]
+        },
+        "upbeat": {
+            "male": ["Puck"],
+            "female": ["Laomedeia"]
+        },
+        "informative": {
+            "male": ["Charon"],
+            "female": ["Rasalgethi"]
+        },
+        "firm": {
+            "male": ["Orus", "Alnilam"],
+            "female": ["Kore"]
+        },
+        "excitable": {
+            "male": ["Fenrir"],
+            "female": []
+        },
+        "other": {
+            "male": [
+                "Iapetus",
+                "Umbriel",
+                "Algieba",
+                "Algenib",
+                "Achernar",
+                "Schedar",
+                "Gacrux",
+                "Pulcherrima",
+                "Achird",
+                "Zubenelgenubi"
+            ],
+            "female": [
+                "Aoede",
+                "Callirrhoe",
+                "Despina",
+                "Erinome",
+                "Vindemiatrix",
+                "Sadachbia",
+                "Sadaltager",
+                "Sulafat"
+            ]
+        }
+    }
+}
