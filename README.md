@@ -59,3 +59,5 @@ Copy paste text into dialogue.txt then with Ai editing and ready to use
 Run eng_tts_test.py
 
 Enjoy. The test provided as final_dialogue_20250702_170804.wav 02/07/25
+
+Characters you can add more at voice_config.json also select them voice models, the lsit provided there also
